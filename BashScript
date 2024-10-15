@@ -1,0 +1,3 @@
+#!/bin/bash
+cp -r data ./dataFolderBashExercise # -r option: copies directories and their contents recursively.
+
